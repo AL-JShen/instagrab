@@ -1,5 +1,7 @@
 # instagrab
 
+# No longer works as the old Instagram API is now deprecated. 
+
 **An interactive Python script to retrieve Instagram media content.**
 
 `python instagrab.py`
