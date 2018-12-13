@@ -40,7 +40,7 @@ def retrieve(link):
 				urllib.request.urlretrieve(urllist[url], str(dirpath) + '/' + str(url) + '.jpg')
 				print((str(url) + ' of ' + str(len(urllist)) + 'retrieved...'), end='\r')
 				
-retrieve('https://api.instagram.com/v1/users/%s/media/recent/?access_token=6727674825.ba4c844.f0bba8641ea8460c889dea0a08984740&count=9999999' % id)
+retrieve('https://api.instagram.com/v1/users/%s/media/recent/?access_token=INSERTACCESSTOKENHERE&count=9999999' % id)
 
 
 
