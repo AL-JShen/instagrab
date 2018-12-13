@@ -1,6 +1,6 @@
 # instagrab
 
-# No longer works as the old Instagram API is now deprecated. 
+# No longer works as the old Instagram API is now deprecated. Leaving this repo up as a demonstration of work with APIs, pagination, and data cleaning. 
 
 **An interactive Python script to retrieve Instagram media content.**
 
